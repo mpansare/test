@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dunes-script-module name="testAction" result-type="string" api-version="6.0.0" id="c2296072-b634-4b79-8ed6-66586defbb60" version="0.0.0" category-name="com.test">
-  <script encoded="false"><![CDATA[System.log("7")]]></script>
+  <script encoded="false"><![CDATA[System.log("8")]]></script>
 </dunes-script-module>
